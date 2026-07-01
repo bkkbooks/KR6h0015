@@ -1,0 +1,256 @@
+canonical_identifier: bkk:krp/KR6h0015/T/v1
+canonical_location: https://kanripo.org/bkk/KR6h0015/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘大集地藏十輪經
+  identifiers:
+    krp: KR6h0015
+    cbeta: T13n0411
+    cbeta_old_id: T13n0411
+    authorityid: CA0000766
+    json_key: T0411
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T13/T13n0411.xml
+    old_id: T13n0411
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6h0015_000-T.yaml, hash: 'sha256:ab9709016753c44080381166af98dfdeba72be208e7262696052a9c4a246f12c'}
+  - {seq: 1, filename: KR6h0015_001-T.yaml, hash: 'sha256:4d04de2001f0b988b4be7ff633cf7229bc233d8302a8bea1978c114cd26bca84'}
+  - {seq: 2, filename: KR6h0015_002-T.yaml, hash: 'sha256:a5184f34fbe622b56c58944dadbadb51a07a7a8047f6ccb06bd5b6f994781696'}
+  - {seq: 3, filename: KR6h0015_003-T.yaml, hash: 'sha256:652d2ea686d63a8ff4bb7b8293b49beb8497b1979bf25e76e047fb3ca8d05793'}
+  - {seq: 4, filename: KR6h0015_004-T.yaml, hash: 'sha256:7b20e2f2a00a13e87778f1cd408554222c6f3014c4dd4d1fc06361566a872a24'}
+  - {seq: 5, filename: KR6h0015_005-T.yaml, hash: 'sha256:36af17a3350f9f805eb979f6be7134d68ed987ee2fce9a6c7573357b067cc61b'}
+  - {seq: 6, filename: KR6h0015_006-T.yaml, hash: 'sha256:ab99693d5bf8aa23485a48c65b7fb3f8b84c48082ed990b16bdfa1b6b7676fb3'}
+  - {seq: 7, filename: KR6h0015_007-T.yaml, hash: 'sha256:f56705683661d0c97d46de4a56d6205e332b6be83780c9b4f1241f8934f39e3e'}
+  - {seq: 8, filename: KR6h0015_008-T.yaml, hash: 'sha256:430fb1157b6e862cea38f7f39d7ef86cb13f5669851588b69ae77d5d82d05db9'}
+  - {seq: 9, filename: KR6h0015_009-T.yaml, hash: 'sha256:894707cca41172a6b5b85a672a765aef42aeae8f7e81388945edd9d7e333e111'}
+  - {seq: 10, filename: KR6h0015_010-T.yaml, hash: 'sha256:289ff6432c83722ee9f866bd71bf353934e225d9bce3fc600ab0f900153aa007'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6h0015_000-T.markers.yaml, hash: 'sha256:e4805ec5793188efc8076aad721ec0792df2ff2e1ba07a0b1fe0046e06635818'}
+  - {seq: 1, role: markers, filename: assets/KR6h0015_001-T.markers.yaml, hash: 'sha256:b43b9f08a5a93eba40fc27dfe612709672da9603630419e91f72aa5eba6122b8'}
+  - {seq: 2, role: markers, filename: assets/KR6h0015_002-T.markers.yaml, hash: 'sha256:67d1270fa9a1bab02f3e296f01ca1f33e62889508a6ce2f80bdc516257be6232'}
+  - {seq: 3, role: markers, filename: assets/KR6h0015_003-T.markers.yaml, hash: 'sha256:cb67608e18f34f410497536d0fc7293aa37561fd2de95202a90819557dab4341'}
+  - {seq: 4, role: markers, filename: assets/KR6h0015_004-T.markers.yaml, hash: 'sha256:80526258ebf5067eec42db7b533d9b04aa67ae6d00ca956a4f9d2e8e96a3b6ff'}
+  - {seq: 5, role: markers, filename: assets/KR6h0015_005-T.markers.yaml, hash: 'sha256:da3489924af16fec2b0b3435c636948aa0946a7812c0404a16a28896879b4ad3'}
+  - {seq: 6, role: markers, filename: assets/KR6h0015_006-T.markers.yaml, hash: 'sha256:52f56a3317c96cd580dff1d0580ddf0075fc3c4090146c74d84b59c2ad12c18d'}
+  - {seq: 7, role: markers, filename: assets/KR6h0015_007-T.markers.yaml, hash: 'sha256:dd5bc5a9f14320e184eb3756323a3113072d31374214b4220fc2a64bddc607cd'}
+  - {seq: 8, role: markers, filename: assets/KR6h0015_008-T.markers.yaml, hash: 'sha256:7bca5aa2c5a84a582d3e2d2eb480e12a98e38f97957525f90cd4608a3064959b'}
+  - {seq: 9, role: markers, filename: assets/KR6h0015_009-T.markers.yaml, hash: 'sha256:ab2262f42cc7660586ee53c77a87ec3cba02e6b2c86fdac2a170701b2c85b28d'}
+  - {seq: 10, role: markers, filename: assets/KR6h0015_010-T.markers.yaml, hash: 'sha256:414cc54d413224d4872000771ffacdeddfe0de14e0d327fbcb4d3fabbc26b145'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6h0015_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9408
+  label: 大乘大集地藏十輪經序品第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6h0015_T_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 1 序品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0015_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9186
+  label: 大乘大集地藏十輪經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0015_T_002-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 2 十輪品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6h0015_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6395
+  label: 大乘大集地藏十輪經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6h0015_T_003-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 3 無依行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6h0015_T_003-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6h0015_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7195
+  label: 大乘大集地藏十輪經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6h0015_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7660
+  label: 大乘大集地藏十輪經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6h0015_T_005-mulu-1
+    span:
+    - body
+    - 4117
+    - 4117
+  label: 4 有依行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6h0015_T_005-mulu-2
+    span:
+    - body
+    - 4117
+    - 4117
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6h0015_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6962
+  label: 大乘大集地藏十輪經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6h0015_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7401
+  label: 大乘大集地藏十輪經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6h0015_T_007-mulu-1
+    span:
+    - body
+    - 1518
+    - 1518
+  label: 5 懺悔品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6h0015_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 6760
+  label: 大乘大集地藏十輪經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6h0015_T_008-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 6 善業道品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6h0015_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 6806
+  label: 大乘大集地藏十輪經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6h0015_T_009-mulu-1
+    span:
+    - body
+    - 2505
+    - 2505
+  label: 7 福田相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6h0015_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 7331
+  label: 大乘大集地藏十輪經卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6h0015_T_010-mulu-1
+    span:
+    - body
+    - 5652
+    - 5652
+  label: 8 獲益囑累品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6h0015_T_010-mulu-2
+    span:
+    - body
+    - 6585
+    - 6585
+  label: 序
+  type: mulu
+  level: 1
+hash: sha256:2d34a4f4f823408ce4efaa169e844cbcb7cbe1de2936dd1efb5452a50975fc3e
